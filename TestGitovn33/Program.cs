@@ -11,9 +11,7 @@ namespace TestGitovn33
         static void Main(string[] args)
         {
 
-            //skriver över test och lägger till mer information
-
-            string name = weronika;
+            /test
         }
     }
 }
