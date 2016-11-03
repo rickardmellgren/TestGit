@@ -12,6 +12,8 @@ namespace TestGitovn33
         {
 
             //skriver över test
+
+            string name = weronika;
         }
     }
 }
